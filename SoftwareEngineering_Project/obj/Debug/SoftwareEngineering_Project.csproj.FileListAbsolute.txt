@@ -1,1 +1,10 @@
 C:\Users\Samuel.endeva\Documents\Visual Studio 2015\Projects\University\PP\SoftwareEngineering_Project\SoftwareEngineering_Project\bin\Debug\SoftwareEngineering_Project.exe.config
+C:\Users\Samuel.endeva\Documents\GitHub\SoftwareEngineering_SEL\SoftwareEngineering_Project\bin\Debug\SoftwareEngineering_Project.exe.config
+C:\Users\Samuel.endeva\Documents\GitHub\SoftwareEngineering_SEL\SoftwareEngineering_Project\bin\Debug\SoftwareEngineering_Project.exe
+C:\Users\Samuel.endeva\Documents\GitHub\SoftwareEngineering_SEL\SoftwareEngineering_Project\bin\Debug\SoftwareEngineering_Project.pdb
+C:\Users\Samuel.endeva\Documents\GitHub\SoftwareEngineering_SEL\SoftwareEngineering_Project\obj\Debug\SoftwareEngineering_Project.csprojResolveAssemblyReference.cache
+C:\Users\Samuel.endeva\Documents\GitHub\SoftwareEngineering_SEL\SoftwareEngineering_Project\obj\Debug\SoftwareEngineering_Project.Properties.Resources.resources
+C:\Users\Samuel.endeva\Documents\GitHub\SoftwareEngineering_SEL\SoftwareEngineering_Project\obj\Debug\SoftwareEngineering_Project.csproj.GenerateResource.Cache
+C:\Users\Samuel.endeva\Documents\GitHub\SoftwareEngineering_SEL\SoftwareEngineering_Project\obj\Debug\SoftwareEngineering_Project.exe
+C:\Users\Samuel.endeva\Documents\GitHub\SoftwareEngineering_SEL\SoftwareEngineering_Project\obj\Debug\SoftwareEngineering_Project.pdb
+C:\Users\Samuel.endeva\Documents\GitHub\SoftwareEngineering_SEL\SoftwareEngineering_Project\obj\Debug\SoftwareEngineering_Project.LoginPage.resources

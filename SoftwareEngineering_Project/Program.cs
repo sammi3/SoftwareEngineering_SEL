@@ -11,12 +11,49 @@ namespace SoftwareEngineering_Project
         /// <summary>
         /// The main entry point for the application.
         /// </summary>
+        private static Receptionist user;
+
+        internal static Receptionist User
+        {
+            get
+            {
+                return user;
+            }
+        }
+
         [STAThread]
         static void Main()
         {
             Application.EnableVisualStyles();
             Application.SetCompatibleTextRenderingDefault(false);
-            Application.Run(new Form1());
+            user = new Receptionist();
+
+            Application.Run(new LoginPage());
         }
+    }
+    class Staff
+    {
+        private string staffID;
+        private string firstName;
+        private string lastName;
+        private string address;
+
+        public string StaffID
+        {
+            get
+            {
+                return staffID;
+            }
+
+            set
+            {
+                staffID = value;
+            }
+        }
+    }
+    class Receptionist : Staff
+    {
+        private string password;
+
     }
 }
